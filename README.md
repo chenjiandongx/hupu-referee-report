@@ -1,6 +1,10 @@
-# 🏀虎扑步行街裁判报告
+<h1 align="center">🏀 虎扑步行街裁判报告</p>
+
+### 📑 概述
 
 看虎扑也有 5 年了，也算一个老 JR 了，一直很喜欢这个社区。虎扑步行街裁判报告是收集了众多帖子的精品回复，在此收集起来做成这个项目，希望大家能够喜欢。也能够开始对虎扑社区感兴趣，加入这个温馨的大家庭！本项目会持续更新，喜欢的朋友可以关注一下。
+
+### 💡 专题
 
 <details>
 <summary>【虎扑步行街 20 个简短而深刻的亮回复】第 41 期！</summary>
@@ -108,7 +112,7 @@
 
 ![](https://i2.hoopchina.com.cn/blogfile/201810/17/BbsImg_89598374569285_1539789937_s_136939_o_w_480_h_360_60521.jpg?x-oss-process=image/resize,w_800/format,webp)
 
-</details>
+</details><br/>
 
 
 <details>
@@ -204,7 +208,7 @@ U know him？
 
 ![](https://i10.hoopchina.com.cn/hupuapp/bbs/237703680464296/thread_237703680464296_20180926191735_s_20457_w_276_h_183_40624.jpg?x-oss-process=image/resize,w_800/format,webp)
 
-</details>
+</details><br/>
 
 
 <details>
@@ -313,7 +317,7 @@ U know him？
 
 回家练练吧，卡塔尔的前锋
 
-</details>
+</details><br/>
 
 
 <details>
@@ -453,7 +457,7 @@ luoxia and guwu fly together，qiushui and changtian the same colour！单押 x2
 
 吃个黄焖鸡米饭克一下
 
-</details>
+</details><br/>
 
 
 <details>
@@ -561,7 +565,7 @@ I am fine motherfucker
 
 他俩的小孩一岁就能把我打死
 
-</details>
+</details><br/>
 
 
 <details>
@@ -663,7 +667,7 @@ Nice.
 
 小偷逛窑子。賊 jb 爽 
 
-</details>
+</details><br/>
 
 
 <details>
@@ -767,7 +771,7 @@ Nice.
 
 晨跑吧，夜跑太危险了，跑着跑着就进烧烤店了。
 
-</details>
+</details><br/>
 
 
 <details>
@@ -861,7 +865,7 @@ Nice.
 
 你不能低估资本家的胡闹水平，可能就是关晓彤、赵丽颖、周冬雨了
 
-</details>
+</details><br/>
 
 
 <details>
@@ -972,7 +976,7 @@ Nice.
 
 她这是肥水不流外人田啊，爱国。
 
-</details>
+</details><br/>
 
 
 <details>
@@ -1112,7 +1116,7 @@ i love you baobao.
 
 引用楼上：现在 30 元只能让搓澡师傅给你打了吧
 
-</details>
+</details><br/>
 
 
 <details>
@@ -1210,7 +1214,7 @@ Gay 敢日男人，你敢吗？
 
 ![](https://i2.hoopchina.com.cn/blogfile/201805/16/BbsImg152645036842236_256244656866193_800x701.png?x-oss-process=image/resize,w_800/format,webp)
 
-</details>
+</details><br/>
 
 
 <details>
@@ -1386,7 +1390,7 @@ Gay 敢日男人，你敢吗？
 
 ![](https://i2.hoopchina.com.cn/blogfile/201805/10/BbsImg152593546218017_256244656866193_217x387.png?x-oss-process=image/resize,w_800/format,webp)
 
-</details>
+</details><br/>
 
 
 <details>
@@ -1502,7 +1506,7 @@ Gay 敢日男人，你敢吗？
 
 可能她也会很爽吧 
 
-</details>
+</details><br/>
 
 
 <details>
@@ -1634,7 +1638,7 @@ Gay 敢日男人，你敢吗？
 
 30 万街薪就是被这样的 JR 平均上来的
 
-</details>
+</details><br/>
 
 
 <details>
@@ -1766,7 +1770,7 @@ Gay 敢日男人，你敢吗？
 
 没文化，却假装有文化的样子。
 
-</details>
+</details><br/>
 
 
 <details>
@@ -1900,7 +1904,7 @@ Gay 敢日男人，你敢吗？
 
 张馨予、张予曦、张雨绮、张雨馨、张雨鑫、张伯鑫、张歆艺、张辛苑、张晓涵、张晓雪、张艺馨、张梓琳、张钧甯、张筱雨、张馨月
 
-</details>
+</details><br/>
 
 
 <details>
@@ -2008,7 +2012,7 @@ Gay 敢日男人，你敢吗？
 
 男女之间，只需要女生往前走一步，剩下的 999 步男的就会飞奔过来。记住，要让男的追你，好歹也要让人家知道你心里想法。还有，也许有的走 999 步是为了上你。 
 
-</details>
+</details><br/>
 
 
 <details>
@@ -2106,7 +2110,7 @@ Gay 敢日男人，你敢吗？
 
 薯片曲面不完美，是有面积接触到地上的。让这个同学把薯片扔在干了的大便上面，看他敢不敢吃
 
-</details>
+</details><br/>
 
 
 <details>
@@ -2218,7 +2222,7 @@ Gay 敢日男人，你敢吗？
 
 脏话也分很多种啊，如果是 fuck u 肯定会减分，但如果是 fuck me 绝对加分啊
 
-</details>
+</details><br/>
 
 
 <details>
@@ -2338,7 +2342,7 @@ Gay 敢日男人，你敢吗？
 
 肉眼可见的天赋！！
 
-</details>
+</details><br/>
 
 
 <details>
@@ -2474,7 +2478,7 @@ lz 这种对生命负责的态度，实乃吾辈之楷模…
 
 半斤八两。
 
-</details>
+</details><br/>
 
 
 <details>
@@ -2617,7 +2621,7 @@ yayayayaya ……
 早就和你们说了，东哥的人设就是装逼失败
 按照你的说法，一旦他装逼成功，就算是人设崩塌了。。 
 
-</details>
+</details><br/>
 
 
 <details>
@@ -2767,7 +2771,7 @@ NFL 这么做没毛病 OjbK
 
 班尼路最后悔的一笔广告。。。。一句台词毁了整个班尼路
 
-</details>
+</details><br/>
 
 
 <details>
@@ -2871,7 +2875,7 @@ NFL 这么做没毛病 OjbK
 
 ![](https://i2.hoopchina.com.cn/blogfile/201801/23/BbsImg151669889374811_256244656866193_401x245.png?x-oss-process=image/resize,w_800/format,webp)
 
-</details>
+</details><br/>
 
 
 <details>
@@ -2975,7 +2979,7 @@ NFL 这么做没毛病 OjbK
 
 我人生中第一次接触 RAP 这种音乐形式，是在 1995 年春晚上赵丽蓉老师的《如此包装》。后来的生活里，当我听 JayZ、50 Cent、RUN DMC 时，我会想起纽约，想起布鲁克林，有时，也会想起唐山。
 
-</details>
+</details><br/>
 
 
 <details>
@@ -3077,7 +3081,7 @@ B 女：你试试坐火车 35 个小时不上厕所，到站去厕所时候就�
 
 买好座位险，正常车险不含座位险，座位险几十块钱就够了，保额 30 万多，这样你坐副驾驶残疾了也有保障
 
-</details>
+</details><br/>
 
 
 <details>
@@ -3261,7 +3265,7 @@ All right All right
 
 Yaung Rich Cheater 
 
-</details>
+</details><br/>
 
 
 <details>
@@ -3365,7 +3369,7 @@ b：我特么连自己的初夜都忘了跟谁了，那晚人太多……
 
 儿子开口叫爸爸的时候
 
-</details>
+</details><br/>
 
 
 <details>
@@ -3515,7 +3519,7 @@ b：我特么连自己的初夜都忘了跟谁了，那晚人太多……
 
 翻书复习笑开颜
 
-</details>
+</details><br/>
 
 
 <details>
@@ -3622,7 +3626,7 @@ AI 能知道什么意思？
 
 ![](https://i2.hoopchina.com.cn/blogfile/201712/13/BbsImg15131497144436_256244656866193_640x850.png?x-oss-process=image/resize,w_800/format,webp)
 
-</details>
+</details><br/>
 
 
 <details>
@@ -3728,7 +3732,7 @@ wow 竞技场见到的战法牧
 答：是这座山吗？
 
 ![](https://i1.hoopchina.com.cn/blogfile/201712/06/BbsImg151254618771672_256244656866193_500x750.png?x-oss-process=image/resize,w_800/format,webp)
-</details>
+</details><br/>
 
 
 <details>
@@ -3856,7 +3860,7 @@ wow 竞技场见到的战法牧
 
 我们小区的泰迪还老想着上金毛呢
 
-</details>
+</details><br/>
 
 
 <details>
@@ -3950,7 +3954,7 @@ wow 竞技场见到的战法牧
 
 鳝扒肛休。。。。 
 
-</details>
+</details><br/>
 
 
 <details>
@@ -4070,7 +4074,7 @@ wow 竞技场见到的战法牧
 
 我这辈子流过最不值钱的眼泪，就是因为她两节课都没和我说过一句话。
 
-</details>
+</details><br/>
 
 
 <details>
@@ -4164,7 +4168,7 @@ wow 竞技场见到的战法牧
 
 13 年 g6，终场 5 秒前，我振臂高呼：“马刺夺冠啦！”
 
-</details>
+</details><br/>
 
 
 <details>
@@ -4279,7 +4283,7 @@ ScrollLock 键 我没什么用，但就是要占个位置
 
 是他，是他，就是他，少年英雄小哪吒
 
-</details>
+</details><br/>
 
 
 <details>
@@ -4371,7 +4375,7 @@ ScrollLock 键 我没什么用，但就是要占个位置
 
 ABBDC CDDBA
 
-</details>
+</details><br/>
 
 
 <details>
@@ -4489,7 +4493,7 @@ ABBDC CDDBA
 
 知道跟女神聊天时女神的心情了吧……
 
-</details>
+</details><br/>
 
 
 <details>
@@ -4599,7 +4603,7 @@ ABBDC CDDBA
 
 带着迷茫落寞流浪着街头，喊着终于放松了心里却觉得以后更难走了
 
-</details>
+</details><br/>
 
 
 <details>
@@ -4723,7 +4727,7 @@ ABBDC CDDBA
 
 今天去超市，被一个熊孩子惹恼了，熊孩子上来一口咬我手，我没反抗，出了点血，之后熊孩子母亲到了，连连给我赔不是，我也不生气，慢慢的说，我有艾滋。只听见熊孩子他妈脚一软瘫在地上哭了起来，我悄悄的走了，不带走一片云彩。
 
-</details>
+</details><br/>
 
 
 <details>
@@ -4829,9 +4833,9 @@ ABBDC CDDBA
 
 是，我小时候是比较调皮捣蛋，但不能总罚我吃粉笔啊，像什么白色、蓝色、红色的味道我全吃腻了……
 
-</details>
+</details><br/>
 
 
-### LICENSE
+### 🍰 LICENSE
 
-MIT [@chenjiandongx](https://gihub.com/chenjiandongx)
+MIT [©chenjiandongx](https://gihub.com/chenjiandongx)
